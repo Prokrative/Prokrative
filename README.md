@@ -1,6 +1,6 @@
 - ✝️ Yo, I’m @Prokrative 
 - ✝️ I’m interested in Games, Digital art, Scripting
-- ✝️ ing HTML, Java Script, PHP, CSS
+- ✝️ I'm currently learning HTML, Java Script, PHP, CSS
 - ✝️ How to reach me:  Discord - Ke#1088 
 
 <!---
